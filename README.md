@@ -9,10 +9,10 @@ O **Gerenciador de IAM** é uma solução leve e poderosa para gerenciamento de 
 ## 🌟 **Destaques do Meu GitHub**
 
 ### 📊 **Estatísticas do Perfil**
-![Estatísticas do GitHub]
+Em breve
 
 ### 💻 **Linguagens Mais Usadas**
-![Linguagens Mais Usadas]
+Em Breve
 
 ---
 
